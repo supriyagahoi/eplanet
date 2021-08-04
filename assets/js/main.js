@@ -183,7 +183,8 @@
     breakpoints: {
       320: {
         slidesPerView: 2,
-        spaceBetween: 40
+        spaceBetween: 40,
+        filter: 'none'
       },
       480: {
         slidesPerView: 3,
