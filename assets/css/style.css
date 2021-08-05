@@ -1268,6 +1268,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   /* background: #fff; */
+  
 }
 
 .contact .php-email-form .form-group {
@@ -1329,11 +1330,13 @@ section {
 .contact .php-email-form input {
   height: 44px;
   background: #2728296c;
+  color: #fff;
 }
 
 .contact .php-email-form textarea {
   padding: 10px 12px;
   background: #27282969;
+  color: #fff;
 }
 
 .contact .php-email-form button[type="submit"] {
